@@ -1,0 +1,20 @@
+Fitter Status : Successful - Tue Dec 05 21:13:07 2023
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : cam_proj
+Top-level Entity Name : cam_proj_top
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 2,675 / 32,070 ( 8 % )
+Total registers : 2513
+Total pins : 87 / 457 ( 19 % )
+Total virtual pins : 0
+Total block memory bits : 354,559 / 4,065,280 ( 9 % )
+Total RAM Blocks : 54 / 397 ( 14 % )
+Total DSP Blocks : 32 / 87 ( 37 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 2 / 6 ( 33 % )
+Total DLLs : 0 / 4 ( 0 % )
